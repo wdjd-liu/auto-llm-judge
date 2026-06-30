@@ -1,0 +1,6 @@
+utterance,response,ground_truth
+What is the capital of France?,The capital of France is Paris. It is also the largest city in the country.,Paris is the capital of France.
+What kind of plant is this?,That is a beautiful fiddle leaf fig! Great choice for indoors.,That is a Monstera deliciosa.
+What time is it?,I am not able to check the current time. Please check your phone or watch.,I don't have access to real-time information like the current time.
+How do I boil an egg?,Bring water to a boil then add the egg and cook for 12 minutes for hard boiled.,Bring water to a boil and cook the egg for 7 minutes for soft boiled or 12 minutes for hard boiled.
+What is the tallest mountain in the world?,Mount Kilimanjaro is the tallest mountain at 5895 meters.,Mount Everest is the tallest mountain in the world at 8849 meters.
