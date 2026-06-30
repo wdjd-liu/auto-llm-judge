@@ -664,8 +664,8 @@ with tab_results:
 
         styled = (
             table_df.style
-            .applymap(color_verdict, subset=["Verdict"])
-            .applymap(color_score, subset=["Relevant", "C&C", "Factual", "Clear", "Total /3"])
+            .map(color_verdict, subset=["Verdict"])
+            .map(color_score, subset=["Relevant", "C&C", "Factual", "Clear", "Total /3"])
         )
         st.dataframe(styled, use_container_width=True, hide_index=True)
 
